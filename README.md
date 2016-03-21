@@ -36,7 +36,7 @@ Finally, review some of the great visuals provided at [A Visual Git Reference](h
 Response (Required)
 -------------------
 
-When you've completed all the required exercises, open an [issue](https://github.com/ga-wdi-boston/git-basics-practice/issues) and write us a message. This message will your first reflection on the course so far. We want to know anything you want to share. Additionally, answer the following questions:
+When you've completed all the required exercises, open an [issue](https://github.com/ga-wdi-boston/git-basics-practice/issues) and write us a message. This message will be your first reflection on the course so far. We want to know anything you want to share. Additionally, answer the following questions:
 
 * How do you learn best?
 * Which resources from this document helped you the most?
