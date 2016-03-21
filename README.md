@@ -1,46 +1,70 @@
 ![General Assembly Logo](https://camo.githubusercontent.com/1a91b05b8f4d44b5bbfb83abac2b0996d8e26c92/687474703a2f2f692e696d6775722e636f6d2f6b6538555354712e706e67)
 
-Git Basics: Practice
-====================
+# Git Basics: Practice
 
-Reading (Required)
-------------------
+## Reading (Required)
 
-Read the entire [Comparing Workflows](https://www.atlassian.com/git/tutorials/comparing-workflows) tutorial from Atlassian. It's a solid overview of all the commands we've learned, and an introduction to different common patterns developers use to save their work with git. Pay particular attention to the "Feature Branch Workflow". If you don't understand the workflows themselves, that's OK! Just focus on how the commands are being used and how the changes they work are visualized. This should take about an hour.
+Read the entire [Comparing Workflows](https://www.atlassian.com/git/tutorials/comparing-workflows) tutorial from Atlassian.
+It's a solid overview of all the commands we've learned, and an introduction to
+different common patterns developers use to save their work with git. Pay
+particular attention to the "Feature Branch Workflow". If you don't understand
+the workflows themselves, that's OK! Just focus on how the commands are being
+used and how the changes they work are visualized. This should take about an
+hour.
 
-Tutorials (Required)
---------------------
+## Tutorials (Required)
 
-First, let's review the basic `git` commands using CodeSchool's excellent, free [Try Git](https://try.github.io/levels/1/challenges/1) tutorial. This should take somewhere between 15 and 30 minutes to complete. If you have any questions during the tutorial, review your class notes and our lesson repos. To do that, navigate to the [General Assembly WDI Boston](https://github.com/ga-wdi-boston) organization and use the search box to find our git repositories.
+First, let's review the basic `git` commands using CodeSchool's excellent, free
+ [Try Git](https://try.github.io/levels/1/challenges/1) tutorial. This should take
+ somewhere between 15 and 30 minutes to complete. If you have any questions
+ during the tutorial, review your class notes and our lesson repos. To do that,
+ navigate to the [General Assembly WDI Boston](https://github.com/ga-wdi-boston) organization and
+ use the search box to find our git repositories.
 
 <img width="400" alt="general_assembly_wdi_boston" src="https://cloud.githubusercontent.com/assets/388761/10182069/3932739e-66ee-11e5-8763-aa99f76510bf.png">
 
-Next, we'll focus on visualizing git commands, especially branching, by working on [Learn Git Branching](http://pcottle.github.io/learnGitBranching/). Complete all the exercises in the following sequences:
+Next, we'll focus on visualizing git commands, especially branching, by working
+on [Learn Git Branching](http://pcottle.github.io/learnGitBranching/). Complete all
+the exercises in the following sequences:
 
-* `Main > Introduction Sequence`
-* `Main > Ramping Up`
-* `Remote > Push & Pull`
-* `Remote > To Origin and Beyond`
+- `Main > Introduction Sequence`
+- `Main > Ramping Up`
+- `Remote > Push & Pull`
+- `Remote > To Origin and Beyond`
 
-This will take longer. If you spend more than an hour on this, please let an instructor know. Some of the [Atlassian Git Tutorials](https://www.atlassian.com/git/tutorials/using-branches) may be good reference if you get stuck.
+This will take longer. If you spend more than an hour on this, please let an
+instructor know. Some of the [Atlassian Git Tutorials](https://www.atlassian.com/git/tutorials/using-branches) may be good
+ reference if you get stuck.
 
-Bonus (Optional)
-----------------
+# Bonus (Optional)
 
-If you need more review, continue by working through the free chapter of CodeSchool's [Interactive Git Tutorial](https://www.codeschool.com/courses/git-real).
+If you need more review, continue by working through the free chapter of
+CodeSchool's [Interactive Git Tutorial](https://www.codeschool.com/courses/git-real).
 
-You may also want to practice targeted review with [Learn Version Control with Git](http://www.git-tower.com/learn/git/ebook/), one of the best intermediate references available for free online. If you're not satisfied with how well you understand a topic, scan the table of contents and give yourself a set amount of time to review. After time is up, move on! This practice is called [timeboxing](https://en.wikipedia.org/wiki/Timeboxing) and is a great way to avoid getting off track.
+You may also want to practice targeted review with [Learn Version Control with Git](http://www.git-tower.com/learn/git/ebook/),
+one of the best intermediate references available for free online. If you're
+not satisfied with how well you understand a topic, scan the table of contents
+and give yourself a set amount of time to review. After time is up, move on!
+This practice is called [timeboxing](https://en.wikipedia.org/wiki/Timeboxing)
+and is a great way to avoid getting off track.
 
-Finally, review some of the great visuals provided at [A Visual Git Reference](http://marklodato.github.io/visual-git-guide/index-en.html). These diagrams are more detailed and offer annotations that may help you understand how git works. These make a great reference for later, especially if you don't want to replay [Learn Git Branching](http://pcottle.github.io/learnGitBranching/) again.
+Finally, review some of the great visuals provided at [A Visual Git Reference](http://marklodato.github.io/visual-git-guide/index-en.html). These
+diagrams are more detailed and offer annotations that may help you understand
+how git works. These make a great reference for later, especially if you don't
+want to replay [Learn Git Branching](http://pcottle.github.io/learnGitBranching/)
+again.
 
-Response (Required)
--------------------
+## Response (Required)
 
-When you've completed all the required exercises, open an [issue](https://github.com/ga-wdi-boston/git-basics-practice/issues) and write us a message. This message will be your first reflection on the course so far. We want to know anything you want to share. Additionally, answer the following questions:
+When you've completed all the required exercises, open an [issue](https://github.com/ga-wdi-boston/git-basics-practice/issues)
+and write us a message. This message will be your first reflection on the
+course so far. We want to know anything you want to share. Additionally, answer
+the following questions:
 
 * How do you learn best?
 * Which resources from this document helped you the most?
-* How comfortable are you with the workflow (series of steps and git commands) we use to share work and responses?
+* How comfortable are you with the workflow (series of steps and git commands)
+we use to share work and responses?
 
 After you've confirmed that your issue is submitted, you're done!
 
