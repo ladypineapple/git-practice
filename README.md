@@ -43,3 +43,8 @@ When you've completed all the required exercises, open an [issue](https://github
 * How comfortable are you with the workflow (series of steps and git commands) we use to share work and responses?
 
 After you've confirmed that your issue is submitted, you're done!
+
+## [License](LICENSE)
+
+Source code distributed under the MIT license. Text and other assets copyright
+General Assembly, Inc., all rights reserved.
