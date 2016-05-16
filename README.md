@@ -52,6 +52,20 @@ all the exercises in the following sequences:
      alt="learn_git_branching remote tab"
      src="https://cloud.githubusercontent.com/assets/388761/15299518/c0362988-1b72-11e6-92fb-d33d1053a964.png">
 
+Each level in Learn Git Branching will explain the concepts you are expected to
+use to solve the level. Think of these as instructions, and do not skip them!
+
+<img width="400"
+     alt="learn_git_branching instructions for level 1"
+     src="https://cloud.githubusercontent.com/assets/388761/15299755/bf8f3b90-1b73-11e6-9325-cbbac378b46f.png">
+
+You'll have an interactive shell to complete each challenge, as well as help
+buttons which display your goal and a visualization of what the end goal should
+look like.
+
+<img width="400"
+     alt="learn_git_branching interface"
+     src="https://cloud.githubusercontent.com/assets/388761/15299932/5b266254-1b74-11e6-930f-659a8583c111.png">
 
 This will take longer. If you spend more than an hour on this, please let an
 instructor know. Some of the [Atlassian Git
