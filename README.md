@@ -38,10 +38,20 @@ Next, we'll focus on visualizing git commands, especially branching, by working
 on [Learn Git Branching](http://pcottle.github.io/learnGitBranching/). Complete
 all the exercises in the following sequences:
 
--   `Main > Introduction Sequence`
--   `Main > Ramping Up`
--   `Remote > Push & Pull`
--   `Remote > To Origin and Beyond`
+-   `Main > Introduction Sequence`, levels 1 and 2
+-   `Main > Ramping Up`, all levels
+
+<img width="400"
+     alt="learn_git_branching main tab"
+     src="https://cloud.githubusercontent.com/assets/388761/15299488/96c89c52-1b72-11e6-8e4d-4ce2e4268822.png">
+
+-   `Remote > Push & Pull`, levels 1 through 6
+-   `Remote > To Origin and Beyond`, levels 1 and 3
+
+<img width="400"
+     alt="learn_git_branching remote tab"
+     src="https://cloud.githubusercontent.com/assets/388761/15299518/c0362988-1b72-11e6-92fb-d33d1053a964.png">
+
 
 This will take longer. If you spend more than an hour on this, please let an
 instructor know. Some of the [Atlassian Git
