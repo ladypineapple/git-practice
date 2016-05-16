@@ -14,16 +14,22 @@ hour.
 
 ## Tutorials (Required)
 
-First, let's review the basic `git` commands using CodeSchool's excellent, free
-[Try Git](https://try.github.io/levels/1/challenges/1) tutorial. This should
-take somewhere between 15 and 30 minutes to complete. If you have any questions
-during the tutorial, review your class notes and our lesson repos. To do that,
-navigate to the [General Assembly WDI Boston](https://github.com/ga-wdi-boston)
-organization and use the search box to find our git repositories.
+If you have any questions during these tutorials, review your class notes and
+our lesson repos. To do that, navigate to the [General Assembly WDI
+Boston](https://github.com/ga-wdi-boston) organization and use the search box to
+find our git repositories.
 
 <img width="400"
      alt="general_assembly_wdi_boston"
      src="https://cloud.githubusercontent.com/assets/388761/10182069/3932739e-66ee-11e5-8763-aa99f76510bf.png">
+
+### CodeSchool's Try Git
+
+First, let's review the basic `git` commands using CodeSchool's excellent, free
+[Try Git](https://try.github.io/levels/1/challenges/1) tutorial. This should
+take somewhere between 15 and 30 minutes to complete.
+
+### Learn Git Branching
 
 Next, we'll focus on visualizing git commands, especially branching, by working
 on [Learn Git Branching](http://pcottle.github.io/learnGitBranching/). Complete
@@ -37,7 +43,7 @@ all the exercises in the following sequences:
 This will take longer. If you spend more than an hour on this, please let an
 instructor know. Some of the [Atlassian Git
 Tutorials](https://www.atlassian.com/git/tutorials/using-branches) may be good
-reference if you get stuck.
+references if you get stuck.
 
 ## Bonus (Optional)
 
