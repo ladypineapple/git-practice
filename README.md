@@ -4,7 +4,10 @@
 
 ## Reading (Required)
 
-Read the entire [Comparing Workflows](https://www.atlassian.com/git/tutorials/comparing-workflows) tutorial from Atlassian.
+Read the entire [Comparing
+Workflows](https://www.atlassian.com/git/tutorials/comparing-workflows) tutorial
+from Atlassian, except for the "Gitflow Workflow" section, which is optional.
+
 It's a solid overview of all the commands we've learned, and an introduction to
 different common patterns developers use to save their work with git. Pay
 particular attention to the "Feature Branch Workflow". If you don't understand
