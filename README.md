@@ -15,31 +15,35 @@ hour.
 ## Tutorials (Required)
 
 First, let's review the basic `git` commands using CodeSchool's excellent, free
- [Try Git](https://try.github.io/levels/1/challenges/1) tutorial. This should take
- somewhere between 15 and 30 minutes to complete. If you have any questions
- during the tutorial, review your class notes and our lesson repos. To do that,
- navigate to the [General Assembly WDI Boston](https://github.com/ga-wdi-boston) organization and
- use the search box to find our git repositories.
+[Try Git](https://try.github.io/levels/1/challenges/1) tutorial. This should
+take somewhere between 15 and 30 minutes to complete. If you have any questions
+during the tutorial, review your class notes and our lesson repos. To do that,
+navigate to the [General Assembly WDI Boston](https://github.com/ga-wdi-boston)
+organization and use the search box to find our git repositories.
 
-<img width="400" alt="general_assembly_wdi_boston" src="https://cloud.githubusercontent.com/assets/388761/10182069/3932739e-66ee-11e5-8763-aa99f76510bf.png">
+<img width="400"
+     alt="general_assembly_wdi_boston"
+     src="https://cloud.githubusercontent.com/assets/388761/10182069/3932739e-66ee-11e5-8763-aa99f76510bf.png">
 
 Next, we'll focus on visualizing git commands, especially branching, by working
-on [Learn Git Branching](http://pcottle.github.io/learnGitBranching/). Complete all
-the exercises in the following sequences:
+on [Learn Git Branching](http://pcottle.github.io/learnGitBranching/). Complete
+all the exercises in the following sequences:
 
-- `Main > Introduction Sequence`
-- `Main > Ramping Up`
-- `Remote > Push & Pull`
-- `Remote > To Origin and Beyond`
+-   `Main > Introduction Sequence`
+-   `Main > Ramping Up`
+-   `Remote > Push & Pull`
+-   `Remote > To Origin and Beyond`
 
 This will take longer. If you spend more than an hour on this, please let an
-instructor know. Some of the [Atlassian Git Tutorials](https://www.atlassian.com/git/tutorials/using-branches) may be good
- reference if you get stuck.
+instructor know. Some of the [Atlassian Git
+Tutorials](https://www.atlassian.com/git/tutorials/using-branches) may be good
+reference if you get stuck.
 
-# Bonus (Optional)
+## Bonus (Optional)
 
 If you need more review, continue by working through the free chapter of
-CodeSchool's [Interactive Git Tutorial](https://www.codeschool.com/courses/git-real).
+CodeSchool's [Interactive Git
+Tutorial](https://www.codeschool.com/courses/git-real).
 
 You may also want to practice targeted review with [Learn Version Control with Git](http://www.git-tower.com/learn/git/ebook/),
 one of the best intermediate references available for free online. If you're
@@ -48,11 +52,12 @@ and give yourself a set amount of time to review. After time is up, move on!
 This practice is called [timeboxing](https://en.wikipedia.org/wiki/Timeboxing)
 and is a great way to avoid getting off track.
 
-Finally, review some of the great visuals provided at [A Visual Git Reference](http://marklodato.github.io/visual-git-guide/index-en.html). These
+Finally, review some of the great visuals provided at [A Visual Git
+Reference](http://marklodato.github.io/visual-git-guide/index-en.html). These
 diagrams are more detailed and offer annotations that may help you understand
 how git works. These make a great reference for later, especially if you don't
-want to replay [Learn Git Branching](http://pcottle.github.io/learnGitBranching/)
-again.
+want to replay [Learn Git
+Branching](http://pcottle.github.io/learnGitBranching/) again.
 
 ## Response (Required)
 
@@ -61,10 +66,10 @@ and write us a message. This message will be your first reflection on the
 course so far. We want to know anything you want to share. Additionally, answer
 the following questions:
 
-* How do you learn best?
-* Which resources from this document helped you the most?
-* How comfortable are you with the workflow (series of steps and git commands)
-we use to share work and responses?
+-   How do you learn best?
+-   Which resources from this document helped you the most?
+-   How comfortable are you with the workflow (series of steps and git commands)
+    we use to share work and responses?
 
 After you've confirmed that your issue is submitted, you're done!
 
