@@ -99,10 +99,16 @@ and write us a message. This message will be your first reflection on the
 course so far. We want to know anything you want to share. Additionally, answer
 the following questions:
 
--   How do you learn best?
+
 -   Which resources from this document helped you the most?
--   How comfortable are you with the workflow (series of steps and git commands)
-    we use to share work and responses?
+- <answer-here>
+-  Which resource (if any) was most frustrating? Why?
+- <answer-here>
+-   How comfortable are you with the workflow (series of steps and git commands) we use to share work and responses?
+- <answer-here>
+- Do you have any burning questions about git or how you will use it in this course?
+-  <answer-here>
+
 
 After you've confirmed that your issue is submitted, you're done!
 
