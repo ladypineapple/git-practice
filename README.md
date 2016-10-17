@@ -96,8 +96,9 @@ Branching](http://pcottle.github.io/learnGitBranching/) again.
 
 When you've completed all the required exercises, checkout to a new branch 'response' and answer the following questions, placing your answers where prompted. Don't hesitate to add anything else you'd like us to know about your experience with this pactice, or the course so far.
 
-
--   Which resources from this document helped you the most?
+- How do you learn best?
+- <answer-here>
+-  Which resources from this document helped you the most?
 - <answer-here>
 -  Which resource (if any) was most frustrating? Why?
 - <answer-here>
