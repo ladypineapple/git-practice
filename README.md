@@ -94,17 +94,21 @@ Branching](http://pcottle.github.io/learnGitBranching/) again.
 
 ## Response (Required)
 
-When you've completed all the required exercises, open an [issue](https://github.com/ga-wdi-boston/git-basics-practice/issues)
-and write us a message. This message will be your first reflection on the
-course so far. We want to know anything you want to share. Additionally, answer
-the following questions:
+When you've completed all the required exercises, checkout to a new branch 'response' and answer the following questions, placing your answers where prompted. Don't hesitate to add anything else you'd like us to know about your experience with this pactice, or the course so far.
 
--   How do you learn best?
--   Which resources from this document helped you the most?
--   How comfortable are you with the workflow (series of steps and git commands)
-    we use to share work and responses?
+- How do you learn best?
+- <answer-here>
+-  Which resources from this document helped you the most?
+- <answer-here>
+-  Which resource (if any) was most frustrating? Why?
+- <answer-here>
+-   How comfortable are you with the workflow (series of steps and git commands) we use to share work and responses?
+- <answer-here>
+- Do you have any burning questions about git or how you will use it in this course?
+-  <answer-here>
 
-After you've confirmed that your issue is submitted, you're done!
+
+After you've answered the questions, create a pull request with your response. 
 
 ## [License](LICENSE)
 
